@@ -1,6 +1,6 @@
 Shapes Exerice.
 
-To run the shape exercice script, clone this repository, navigate to the fizzbuzz folder and execute:
+To run the shape exercice script, clone this repository, navigate to the shapes folder and execute:
 
 ```bash
 node test.js
